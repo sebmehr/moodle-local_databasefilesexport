@@ -7,7 +7,7 @@ Moodle plugin which allows to export all files from a database activity.
 Database activity allows teachers to export all entries of database except file and picture fields.
 This plugin adds this useful functionnality.
 
-## Installation ##
+## Installation ##
 
 Install the plugin like any other plugin to folder /local/databasefilesexport
 
